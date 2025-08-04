@@ -49,7 +49,7 @@ Responsive design and interactive UI elements
 🚀 How to Play Locally
 Clone the repository:
 
-git clone https://github.com/your-username/hape-ocean-adventure.git
+git clone https://github.com/geyasrivagdevi/hape-ocean-adventure.git
 cd hape-ocean-adventure
 Open index.html in any browser to start playing.
 
